@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhijith M R</h1>
+<h3 align="center">Full stack developer (Django)</h3>
 
 <img align="right" width="300px" alt="coding" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
@@ -6,7 +7,7 @@
 
 - 🔭 I’m currently working on a E-commerce site [www.lunar-edge.online](www.lunar-edge.online)
 
-- 🌱 I’m currently learning **Rest API, MongoDB**
+- 🌱 I’m currently learning **Rest API, REACT**
 
 - 💬 Ask me about **Different type of logical problems, New tech update**
 
