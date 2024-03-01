@@ -5,7 +5,7 @@
 ```js
 export default Abhi() => ({
   pronouns: "He" | "Him",
-  portfolio: "(https://portfolio-sandy-zeta-40.vercel.app/)",
+  portfolio: https://portfolio-sandy-zeta-40.vercel.app/,
   askMeAbout: [
     "chess", "tech", "music", "games",
   ],
