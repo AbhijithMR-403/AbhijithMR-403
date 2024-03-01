@@ -5,7 +5,7 @@
 ```js
 export default Abhi() => ({
   pronouns: "He" | "Him",
-  portfolio: "[Abhijith](https://portfolio-sandy-zeta-40.vercel.app/)",
+  portfolio: "(https://portfolio-sandy-zeta-40.vercel.app/)",
   askMeAbout: [
     "chess", "tech", "music", "games",
   ],
@@ -17,7 +17,7 @@ export default Abhi() => ({
       js: ["react":{"Redux", "Google Map integration"}],
       css: ["material UI", "bootstrap", "Tailwind"]
     },
-    Cloud: ["aws", "google cloud", Nginx],
+    Cloud: ["AWS", "google cloud", "Nginx"],
     backEnd: {
       python: ["django":{"Rest FrameWork", "MVT"}, "flask"],
       Firebase
