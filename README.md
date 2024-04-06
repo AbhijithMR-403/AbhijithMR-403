@@ -28,7 +28,7 @@ export default Abhi() => ({
 });
 ```
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sandy-zeta-40.vercel.app/](https://portfolio-sandy-zeta-40.vercel.app/)
+- 👨‍💻 [https://portfolio-sandy-zeta-40.vercel.app/](https://portfolio-sandy-zeta-40.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 
