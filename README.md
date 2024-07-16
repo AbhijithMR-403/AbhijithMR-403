@@ -19,7 +19,7 @@ export default Abhi() => ({
     },
     Cloud: ["AWS", "google cloud", "Nginx"],
     backEnd: {
-      python: ["django":{"Rest FrameWork", "MVT"}, "flask", "Fast API"],
+      python: ["django":{"Rest FrameWork", "MVT"}, "Fast API"],
       Firebase
     },
     databases: ["mongoDB", "postgresSQL", "redis"],
