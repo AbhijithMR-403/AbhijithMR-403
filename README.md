@@ -30,9 +30,9 @@ export default Abhi() => ({
 
 - 👨‍💻 [https://portfolio-sandy-zeta-40.vercel.app/](https://portfolio-sandy-zeta-40.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mail:</h3>
 
-- 📫 How to reach me **Abhijithmr581@gmail.com**
+- 📫 How to reach me **abhijithmr581@gmail.com**
 
 <p align="left">
 </p>
