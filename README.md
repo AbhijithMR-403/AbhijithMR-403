@@ -6,7 +6,7 @@
 export default Abhi() => ({
   pronouns: "He" | "Him",
   askMeAbout: [
-    "chess", "tech", "music", "games",
+    "chess", "tech", "games",
   ],
   technologies: {
     Languages: {
@@ -16,9 +16,9 @@ export default Abhi() => ({
       js: ["react":{"Redux", "Google Map integration"}],
       css: ["material UI", "bootstrap", "Tailwind"]
     },
-    Cloud: ["AWS", "google cloud", "Nginx"],
+    cloud: ["AWS", "google cloud", "Nginx"],
     backEnd: {
-      python: ["django":{"Rest FrameWork", "MVT"}, "Fast API"],
+      python: ["django", "Fast API", "Litestar", "Pandas"],
       Firebase
     },
     databases: ["mongoDB", "postgresSQL", "redis"],
