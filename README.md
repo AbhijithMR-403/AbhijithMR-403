@@ -31,5 +31,5 @@ Portfolio: [https://portfolio-sandy-zeta-40.vercel.app/](https://portfolio-sandy
 
 <h3 align="left">Mail:</h3>
 
-- 📫 How to reach me **abhijithmr581@gmail.com**
+- 📫 **abhijithmr581@gmail.com**
 
