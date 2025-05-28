@@ -1,35 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abhijith M R</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithmr-403&label=Profile%20views&color=347393&style=flat" alt="abhijithmr-403" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhijithmr-403&label=Profile%20views&color=347393&style=flat" alt="abhijithmr-403" />
+</p>
 
-```js
-export default Abhi() => ({
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    "chess", "tech", "games",
+---
+
+💻 **Python Full Stack Developer**  
+☁️ Passionate about backend systems, cloud infra, and automation  
+🎯 Currently focusing on **DevOps**, security, and scalable backend architecture  
+
+---
+
+### 🛠️ Tech Stack
+
+```ts
+{
+  languages: ["Python", "JavaScript", "Shell"],
+  backend: ["FastAPI", "Django", "Litestar", "Pandas"],
+  frontend: ["React", "TailwindCSS", "Bootstrap"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"],
+  cloud_and_devops: [
+    "AWS (Lambda, EC2, API Gateway, S3)",
+    "Nginx", "Docker", "GitHub Actions"
   ],
-  technologies: {
-    Languages: {
-      Java, C, Python, JavaScript
-    },
-    frontEnd: {
-      js: ["react":{"Redux", "Google Map integration"}],
-      css: ["material UI", "bootstrap", "Tailwind"]
-    },
-    cloud: ["AWS", "google cloud", "Nginx"],
-    backEnd: {
-      python: ["django", "Fast API", "Litestar", "Pandas"],
-      Firebase
-    },
-    databases: ["mongoDB", "postgresSQL", "redis"],
-    Others: ["Postman", "POSIX COMMANDS"]
-  },
-});
-```
-
-Portfolio: [https://portfolio-sandy-zeta-40.vercel.app/](https://portfolio-sandy-zeta-40.vercel.app/)
-
-<h3 align="left">Mail:</h3>
-
-- 📫 **abhijithmr581@gmail.com**
-
+  tools: ["Postman", "Linux/Posix Commands", "Vim", "Git"]
+}
