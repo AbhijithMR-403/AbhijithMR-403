@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijith M R</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijithmr-403&label=Profile%20views&color=347393&style=flat" alt="abhijithmr-403" />
-</p>
 
 ---
 
